@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+title: >-
+  Negative controls in citizen-science estimates of wildfire
+  effects on birds
+message: >-
+  If you use this code, please cite both the software and the
+  paper it accompanies.
+type: software
+authors:
+  - given-names: Ethan
+    family-names: Le
+repository-code: "TODO-GITHUB-URL"
+abstract: >-
+  Replication package for a study joining eBird checklists, MTBS
+  burn severity and MODIS vegetation indices across California,
+  2015-2026. Nineteen bird species across four habitat groups,
+  including three negative-control species that wildfire cannot
+  plausibly affect. The extent-based design fails its own
+  falsification test: all three controls register larger fire
+  effects than the focal species, and after a square burns
+  birders visit 42% fewer distinct locations inside it.
+keywords:
+  - citizen science
+  - eBird
+  - wildfire severity
+  - negative controls
+  - observer bias
+  - difference-in-differences
+license: MIT
+date-released: "2026-08-23"

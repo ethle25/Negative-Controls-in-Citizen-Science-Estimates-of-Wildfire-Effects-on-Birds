@@ -1,0 +1,20 @@
+common_name,species_code,prefix,guild,habitat,predicted,migratory,movement,active,notes
+Wrentit,wrenti,wrentit,shrub,dense shrubs,negative,0,SEDENTARY (placebo control),1,flagship species; sedentary so doubles as the migration placebo
+Brown Creeper,brncre,brncre,forest,tree trunks,negative,0,short-distance / altitudinal,1,fails its pre-trend check under both estimators - inconclusive
+Olive-sided Flycatcher,olsfly,olsfly,snag,dead-tree perches,positive,1,long-distance migrant,1,burnt-forest specialist; small baseline (0.0344)
+California Thrasher,calthr,calthr,shrub,chaparral floor,negative,0,sedentary,1,chaparral obligate; CA endemic
+Spotted Towhee,spotow,spotow,shrub,dense understory,negative,0,sedentary,1,dense understory
+California Towhee,caltow,caltow,shrub,scrub edge,negative,0,sedentary,1,chaparral and scrub edge
+Bewick's Wren,bewwre,bewwre,shrub,shrub thickets,negative,0,sedentary,1,shrub and thicket
+Blue-gray Gnatcatcher,buggna,buggna,shrub,arid scrub,negative,1,short-distance migrant,1,arid scrub; migratory so also feeds the phenology test
+Black-backed Woodpecker,bkbwoo,bkbwoo,snag,burned-forest snags,positive,0,sedentary,1,THE canonical burned-forest specialist; rare in CA and Sierra-restricted - baseline may be too thin
+Hairy Woodpecker,haiwoo,haiwoo,snag,snags and trunks,positive,0,sedentary,1,uses snags; less fire-dependent than BBWO
+Western Bluebird,wesblu,wesblu,snag,open-forest cavities,positive,1,short-distance migrant,1,cavity nester in burned open forest
+Mountain Bluebird,moublu,moublu,snag,open post-fire ground,positive,1,short-distance migrant,1,post-fire open habitat
+Lazuli Bunting,lazbun,lazbun,snag,early regrowth shrub,positive,1,long-distance migrant,1,early post-fire shrub regrowth; direction less certain than the woodpeckers
+Pacific Wren,pacwre1,pacwre1,forest,moist forest interior,negative,0,sedentary,1,dense moist forest interior
+Golden-crowned Kinglet,gockin,gockin,forest,conifer canopy,negative,1,short-distance / altitudinal,1,conifer canopy
+Hermit Warbler,herwar,herwar,forest,mature conifer canopy,negative,1,long-distance migrant,1,mature conifer canopy
+Mallard,mallar3,mallar3,control,wetland,none,0,partial migrant,1,NEGATIVE CONTROL - wetland; fire should do nothing
+American Coot,y00475,y00475,control,open water,none,0,partial migrant,1,NEGATIVE CONTROL - open water
+Black Phoebe,blkpho,blkpho,control,water edges,none,0,sedentary,1,NEGATIVE CONTROL - water edges and built areas
